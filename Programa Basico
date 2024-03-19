@@ -1,0 +1,4 @@
+n1=int(input("Valor A"))
+n2=int(input("valor B"))      
+soma= n1+n2
+print(soma)
